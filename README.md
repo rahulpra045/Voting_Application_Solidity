@@ -32,8 +32,24 @@ You should have some understanding of Solidity and smart contracts.
 * Clone this repository to your local machine.
 * Open a terminal window and navigate to the project directory.
 * Install the required dependencies by running npm install.
+```shell
+npm install
+```
 * Compile the smart contracts by running npx hardhat compile.
+```shell
+npx hardhat compile
+```
 * Deploy the smart contracts to a testnet by running npx hardhat run scripts/deploy.js.
+```shell
+npx hardhat run --network sepolia scripts/deploy.js
+```
+* Once the contract is uploaded to the blockchain, copy the contract address and copy it in the .env file. You can also use another blockchain by writing the blockchain's endpoint in hardhat-config.
+
+*Once you have pasted your private key and contract address in the .env file, simply run command
+
+```shell
+npm start
+```
 
 ## Testing:
 
@@ -78,7 +94,7 @@ Contributing:
 * Security and Privacy: Formal verification, bug bounty programs, privacy-enhancing technologies.
 * User Experience: User-friendly interface, mobile application, accessibility features.
 
-## Installation
+<!---## Installation
 After you cloned the repository, you want to install the packages using
 
 ```shell
@@ -99,3 +115,4 @@ Once you have pasted your private key and contract address in the .env file, sim
 ```shell
 npm start
 ```
+--->
