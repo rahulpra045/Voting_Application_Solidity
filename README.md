@@ -61,12 +61,6 @@ npm start
 You can interact with the smart contracts using a web3 library like Web3.js or Metamask.
 Refer to the contract documentation for more information on how to interact with the specific functions.
 
-## Documentation:
-
-The contract documentation is available in the docs directory.
-The documentation includes detailed information about the contracts, functions, and variables.
-Contributing:
-
 ## Resources
 * Solidity Documentation: https://docs.soliditylang.org/
 * Hardhat Documentation: https://hardhat.org/hardhat-runner/docs/getting-started
