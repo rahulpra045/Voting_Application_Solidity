@@ -21,7 +21,6 @@ This application allows users to:
 * Hardhat: Development environment for building, testing, and deploying smart contracts.
 * OpenZeppelin Contracts: Library of secure and tested smart contract components.
 
-## Getting started
 
 ## Prerequisites:
 
@@ -52,10 +51,6 @@ The contract documentation is available in the docs directory.
 The documentation includes detailed information about the contracts, functions, and variables.
 Contributing:
 
-## License:
-This project is licensed under the MIT license.
-See the LICENSE file for more information.
-
 ## Resources
 * Solidity Documentation: https://docs.soliditylang.org/
 * Hardhat Documentation: https://hardhat.org/hardhat-runner/docs/getting-started
@@ -63,7 +58,21 @@ See the LICENSE file for more information.
 * Ethereum Voting App Tutorial: https://dapp.vote/
 * Guide to Developing an Ethereum Decentralized Voting Application: https://www.freecodecamp.org/news/developing-an-ethereum-decentralized-voting-application-a99de24992d9/
 
+## Screenshots
+
+
 ## Installation
+![Screenshot (25)](https://github.com/rahulpra045/Voting_Application_Solidity/assets/98214910/89b448ce-7441-43e1-befe-fc7d2b4405cf)
+![Screenshot (28)](https://github.com/rahulpra045/Voting_Application_Solidity/assets/98214910/08199442-ee90-43c4-b922-f026cf998fbb)
+![Screenshot (38)](https://github.com/rahulpra045/Voting_Application_Solidity/assets/98214910/4208f392-caeb-4493-b9d8-8520d9cfd7ec)
+![Screenshot (55)](https://github.com/rahulpra045/Voting_Application_Solidity/assets/98214910/bb360d45-491d-4d32-8a38-c14e0f8cc401)
+![Screenshot (56)](https://github.com/rahulpra045/Voting_Application_Solidity/assets/98214910/176fe491-c820-47d9-b61a-98cce7eaada3)
+![Screenshot (57)](https://github.com/rahulpra045/Voting_Application_Solidity/assets/98214910/2d2c6fba-0aae-4cbf-9f0a-00f58e719ee4)
+![Screenshot (59)](https://github.com/rahulpra045/Voting_Application_Solidity/assets/98214910/b1f0cab0-7e0b-4e98-9baa-ef8825fc3554)
+![Screenshot (60)](https://github.com/rahulpra045/Voting_Application_Solidity/assets/98214910/887fdcac-9480-43b3-a012-34d334422328)
+![Screenshot (61)](https://github.com/rahulpra045/Voting_Application_Solidity/assets/98214910/c9720fd9-d7ce-49c7-a6f4-c90a60308cc7)
+![Screenshot (62)](https://github.com/rahulpra045/Voting_Application_Solidity/assets/98214910/fbe1a298-21d5-4f55-8414-a412bdd45d7c)
+
 
 After you cloned the repository, you want to install the packages using
 
