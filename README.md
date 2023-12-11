@@ -60,8 +60,6 @@ Contributing:
 
 ## Screenshots
 
-
-## Installation
 ![Screenshot (25)](https://github.com/rahulpra045/Voting_Application_Solidity/assets/98214910/89b448ce-7441-43e1-befe-fc7d2b4405cf)
 ![Screenshot (28)](https://github.com/rahulpra045/Voting_Application_Solidity/assets/98214910/08199442-ee90-43c4-b922-f026cf998fbb)
 ![Screenshot (38)](https://github.com/rahulpra045/Voting_Application_Solidity/assets/98214910/4208f392-caeb-4493-b9d8-8520d9cfd7ec)
@@ -73,7 +71,14 @@ Contributing:
 ![Screenshot (61)](https://github.com/rahulpra045/Voting_Application_Solidity/assets/98214910/c9720fd9-d7ce-49c7-a6f4-c90a60308cc7)
 ![Screenshot (62)](https://github.com/rahulpra045/Voting_Application_Solidity/assets/98214910/fbe1a298-21d5-4f55-8414-a412bdd45d7c)
 
+## Future Scope
+* Enhanced Features: Weighted voting, ranked-choice voting, multi-signature voting, voter verification, secret ballots, proposal voting.
+* Scalability and Performance: Off-chain voting, sharding, zero-knowledge proofs.
+* Integration and Interoperability: Decentralized Identity, Decentralized Autonomous Organizations, cross-chain voting.
+* Security and Privacy: Formal verification, bug bounty programs, privacy-enhancing technologies.
+* User Experience: User-friendly interface, mobile application, accessibility features.
 
+## Installation
 After you cloned the repository, you want to install the packages using
 
 ```shell
